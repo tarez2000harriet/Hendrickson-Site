@@ -1,0 +1,49 @@
+body {
+  background-color: red;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+
+}
+
+.blue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: absolute;
+
+  left: 200px;
+}
+
+
+ h1 {
+   margin-top: 0;
+   font-size: 60px;
+ }
+
+h2 {
+  font-family: "Montserrat" , serif;
+}
+
+a {
+  color: #11999E;
+}
+
+
+.top-container {
+  background-color: red;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+
+
+.middle-container {
+background-color: orange;
+}
+
+.bottom-container {
+background-color: white;
+padding: 50px 0 20;
+}
